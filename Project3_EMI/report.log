@@ -1,0 +1,583 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  12 DEC 2016 22:42
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count94
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip44
+\enit@outerparindent=\dimen128
+\enit@toks=\toks16
+\enit@inbox=\box28
+\enitdp@description=\count95
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
+\c@tracingmulticols=\count96
+\mult@box=\box29
+\multicol@leftmargin=\dimen129
+\c@unbalance=\count97
+\c@collectmore=\count98
+\doublecol@number=\count99
+\multicoltolerance=\count100
+\multicolpretolerance=\count101
+\full@width=\dimen130
+\page@free=\dimen131
+\premulticols=\dimen132
+\postmulticols=\dimen133
+\multicolsep=\skip45
+\multicolbaselineskip=\skip46
+\partial@page=\box30
+\last@line=\box31
+\maxbalancingoverflow=\dimen134
+\mult@rightbox=\box32
+\mult@grightbox=\box33
+\mult@gfirstbox=\box34
+\mult@firstbox=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\c@columnbadness=\count102
+\c@finalcolumnbadness=\count103
+\last@try=\dimen135
+\multicolovershoot=\dimen136
+\multicolundershoot=\dimen137
+\mult@nat@firstbox=\box53
+\colbreak@box=\box54
+\mc@col@check@num=\count104
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count105
+) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 316.
+LaTeX Font Info:    ... okay on input line 316.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 316.
+LaTeX Font Info:    ... okay on input line 316.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 316.
+LaTeX Font Info:    ... okay on input line 316.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 316.
+LaTeX Font Info:    ... okay on input line 316.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 316.
+LaTeX Font Info:    ... okay on input line 316.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 316.
+LaTeX Font Info:    ... okay on input line 316.
+-- Lines per column: 56 (exact).
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen138
+\scratchbox=\box55
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen139
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks18
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+<neuron.png, id=1, 253.94875pt x 161.60374pt>
+File: neuron.png Graphic file (type png)
+ <use neuron.png>
+Package pdftex.def Info: neuron.png used on input line 403.
+(pdftex.def)             Requested size: 126.97406pt x 80.80167pt.
+
+<threshold_activation.png, id=3, 495.8525pt x 501.875pt>
+File: threshold_activation.png Graphic file (type png)
+
+<use threshold_activation.png>
+Package pdftex.def Info: threshold_activation.png used on input line 410.
+(pdftex.def)             Requested size: 123.96281pt x 125.46843pt.
+
+<Adaline_Perceptron.png, id=4, 506.89375pt x 389.455pt>
+File: Adaline_Perceptron.png Graphic file (type png)
+
+<use Adaline_Perceptron.png>
+Package pdftex.def Info: Adaline_Perceptron.png used on input line 417.
+(pdftex.def)             Requested size: 253.44626pt x 194.72702pt.
+
+Overfull \hbox (1.44626pt too wide) in paragraph at lines 417--418
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<backpropogation.png, id=5, 537.00626pt x 55.20625pt>
+File: backpropogation.png Graphic file (type png)
+
+<use backpropogation.png>
+Package pdftex.def Info: backpropogation.png used on input line 427.
+(pdftex.def)             Requested size: 241.65057pt x 24.84258pt.
+ <RELU.png, id=6, 178.6675pt x 54.2025pt>
+File: RELU.png Graphic file (type png)
+
+<use RELU.png>
+Package pdftex.def Info: RELU.png used on input line 436.
+(pdftex.def)             Requested size: 89.33353pt x 27.10118pt.
+ <sigmoid.png, id=7, 538.01pt x 240.9pt>
+File: sigmoid.png Graphic file (type png)
+ <use sigmoid.png>
+Package pdftex.def Info: sigmoid.png used on input line 439.
+(pdftex.def)             Requested size: 242.10226pt x 108.40399pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./neuron.png> <./threshold_activation.png> <./Adaline_Perceptron.png> <./back
+propogation.png>] <MLP.png, id=20, 577.15625pt x 537.00626pt>
+File: MLP.png Graphic file (type png)
+ <use MLP.png>
+Package pdftex.def Info: MLP.png used on input line 449.
+(pdftex.def)             Requested size: 259.71791pt x 241.65057pt.
+
+Overfull \hbox (7.71791pt too wide) in paragraph at lines 449--450
+ [][] 
+ []
+
+<Inputsample.png, id=21, 578.16pt x 433.62pt>
+File: Inputsample.png Graphic file (type png)
+ <use Inputsample.png>
+Package pdftex.def Info: Inputsample.png used on input line 463.
+(pdftex.def)             Requested size: 260.16959pt x 195.1272pt.
+
+Overfull \hbox (8.16959pt too wide) in paragraph at lines 463--464
+ [][] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 468.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 472.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 472.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 472.
+[2 <./RELU.png> <./sigmoid.png> <./MLP.png> <./Inputsample.png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 500.
+
+<learningRate.png, id=29, 578.16pt x 433.62pt>
+File: learningRate.png Graphic file (type png)
+ <use learningRate.png>
+Package pdftex.def Info: learningRate.png used on input line 517.
+(pdftex.def)             Requested size: 260.16959pt x 195.1272pt.
+
+Overfull \hbox (8.16959pt too wide) in paragraph at lines 517--518
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<pca100.png, id=30, 578.16pt x 433.62pt>
+File: pca100.png Graphic file (type png)
+ <use pca100.png>
+Package pdftex.def Info: pca100.png used on input line 530.
+(pdftex.def)             Requested size: 260.16959pt x 195.1272pt.
+
+Overfull \hbox (8.16959pt too wide) in paragraph at lines 530--531
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3] <relucomparison.png, id=35, 376.40625pt x 284.06125pt>
+File: relucomparison.png Graphic file (type png)
+
+<use relucomparison.png>
+Package pdftex.def Info: relucomparison.png used on input line 545.
+(pdftex.def)             Requested size: 188.20265pt x 142.03026pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 550.
+ <momentumVsAccuracy.png, id=36, 578.16pt x 433.62pt>
+File: momentumVsAccuracy.png Graphic file (type png)
+
+<use momentumVsAccuracy.png>
+Package pdftex.def Info: momentumVsAccuracy.png used on input line 561.
+(pdftex.def)             Requested size: 260.16959pt x 195.1272pt.
+
+Overfull \hbox (8.16959pt too wide) in paragraph at lines 561--562
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 <./learningRate.png> <./pca100.png> <./relucomparison.png>]
+<momentum.png, id=47, 171.64125pt x 48.18pt>
+File: momentum.png Graphic file (type png)
+ <use momentum.png>
+Package pdftex.def Info: momentum.png used on input line 571.
+(pdftex.def)             Requested size: 171.64081pt x 48.17986pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 577.
+
+<regularizationVSlearningCurve.png, id=48, 578.16pt x 433.62pt>
+File: regularizationVSlearningCurve.png Graphic file (type png)
+
+<use regularizationVSlearningCurve.png>
+Package pdftex.def Info: regularizationVSlearningCurve.png used on input line 6
+00.
+(pdftex.def)             Requested size: 260.16959pt x 195.1272pt.
+
+Overfull \hbox (8.16959pt too wide) in paragraph at lines 600--601
+ [][] 
+ []
+
+[5 <./momentumVsAccuracy.png> <./momentum.png> <./regularizationVSlearningCurve
+.png>] <dropout.png, id=57, 179.67125pt x 185.69376pt>
+File: dropout.png Graphic file (type png)
+ <use dropout.png>
+Package pdftex.def Info: dropout.png used on input line 621.
+(pdftex.def)             Requested size: 139.85513pt x 144.54pt.
+
+<dropoutEquation.png, id=58, 251.94125pt x 59.22125pt>
+File: dropoutEquation.png Graphic file (type png)
+
+<use dropoutEquation.png>
+Package pdftex.def Info: dropoutEquation.png used on input line 630.
+(pdftex.def)             Requested size: 125.9703pt x 29.61053pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 642.
+
+
+Overfull \hbox (25.33308pt too wide) in paragraph at lines 645--656
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 645--656
+
+ []
+
+[6 <./dropout.png> <./dropoutEquation.png>]
+<EarlyStopGraph2.jpg, id=65, 562.1pt x 421.575pt>
+File: EarlyStopGraph2.jpg Graphic file (type jpg)
+ <use EarlyStopGraph2.jpg>
+Package pdftex.def Info: EarlyStopGraph2.jpg used on input line 682.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
+
+Overfull \hbox (0.94266pt too wide) in paragraph at lines 682--683
+[][] 
+ []
+
+<hl50(1).jpg, id=66, 562.1pt x 421.575pt>
+File: hl50(1).jpg Graphic file (type jpg)
+ <use hl50(1).jpg>
+Package pdftex.def Info: hl50(1).jpg used on input line 691.
+(pdftex.def)             Requested size: 236.08038pt x 177.06029pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 694--699
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<PEvsAccuracy.png, id=67, 578.16pt x 433.62pt>
+File: PEvsAccuracy.png Graphic file (type png)
+ <use PEvsAccuracy.png>
+Package pdftex.def Info: PEvsAccuracy.png used on input line 714.
+(pdftex.def)             Requested size: 289.07928pt x 216.80946pt.
+
+Overfull \hbox (37.07928pt too wide) in paragraph at lines 714--715
+[][] 
+ []
+
+<activationVsLearningCurve.jpg, id=68, 562.1pt x 421.575pt>
+File: activationVsLearningCurve.jpg Graphic file (type jpg)
+
+<use activationVsLearningCurve.jpg>
+Package pdftex.def Info: activationVsLearningCurve.jpg used on input line 724.
+(pdftex.def)             Requested size: 281.04932pt x 210.78697pt.
+
+Overfull \hbox (29.04932pt too wide) in paragraph at lines 724--725
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 750--751
+[]\OT1/ptm/m/n/8 Figure source : $\OML/cmm/m/it/8 http \OT1/cmr/m/n/8 : \OML/cm
+m/m/it/8 ==scikit \OMS/cmsy/m/n/8 ^^@
+ []
+
+[7 <./EarlyStopGraph2.jpg>] [8 <./hl50(1).jpg> <./PEvsAccuracy.png> <./activati
+onVsLearningCurve.jpg>]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 791.
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) [9
+
+
+] [10]
+[11] [12] [13]
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1085--1085
+[]\OT1/pcr/m/n/10 15) for HL = 250, lambda = 1e-4 ; relu, eta = 0.1; momentum 0
+.9; with PCA ; with Dropout[] 
+ []
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[14] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 3074 strings out of 493089
+ 49969 string characters out of 6134842
+ 226472 words of memory out of 5000000
+ 6518 multiletter control sequences out of 15000+600000
+ 39283 words of font info for 74 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 37i,13n,23p,1294b,247s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8
+r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10
+.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.p
+fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
+l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/
+texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2015
+/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dis
+t/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/t
+ype1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/t
+imes/utmri8a.pfb>
+Output written on report.pdf (14 pages, 1136270 bytes).
+PDF statistics:
+ 153 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+
